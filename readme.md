@@ -36,6 +36,13 @@ Manage library members with an intuitive user interface.
 ![Authentication Screenshot](/assest/2.jpeg)
 Secure login and registration for users and admins.
 
+
+
+### Demo
+![Demo video](/assest/demo.mp4)
+
+
+
 ---
 
 ## Tech Stack
