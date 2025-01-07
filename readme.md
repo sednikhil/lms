@@ -39,7 +39,7 @@ Secure login and registration for users and admins.
 
 
 ### Demo
-![Demo video](/assest/demo.mp4)
+![Demo video](https://youtu.be/O6fTkegJUpU)
 
 
 
