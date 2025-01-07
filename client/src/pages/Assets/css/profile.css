@@ -1,0 +1,22 @@
+.profile-button {
+  padding-block: 0.5rem;
+  padding-inline: 1rem;
+  border: 1px solid #333; /* Softer black for a modern look */
+  border-radius: 0.5rem; /* Smooth edges for better aesthetics */
+  background-color: transparent; /* Default transparent background */
+  color: #333; /* Matches the border */
+  transition: all 0.3s ease; /* Smooth transition for all properties */
+  font-family: "Roboto", sans-serif; /* Updated font */
+  font-size: 1rem; /* Adjusted for readability */
+  font-weight: 500; /* Slightly bolder text */
+  cursor: pointer;
+  margin-left: 0.5rem;
+}
+
+.profile-button:hover {
+  background-color: #3d5a80; /* Matches hover color with nav */
+  border: 1px solid transparent; /* Makes the transition cleaner */
+  color: #ffffff; /* White text for better contrast */
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); /* Subtle shadow effect */
+  transform: scale(1.05); /* Slight scaling for interactivity */
+}
