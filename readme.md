@@ -15,25 +15,25 @@ A modern and efficient web-based **Library Management System (LMS)** that enable
 ## Screenshots
 
 ### Dashboard
-![Dashboard Screenshot](./asset/1.png)
+![Dashboard Screenshot](/assest/1.jpeg)
 The central hub for managing library activities.
 
 ---
 
 ### Books Management
-![Books Management Screenshot](./asset/3.png)
+![Books Management Screenshot](/assest/3.jpeg)
 Easily add, edit, and delete books from the library.
 
 ---
 
 ### User Management
-![User Management Screenshot](./asset/4.png)
+![User Management Screenshot](/assest/4.jpeg)
 Manage library members with an intuitive user interface.
 
 ---
 
 ### Authentication
-![Authentication Screenshot](./asset/2.png)
+![Authentication Screenshot](/assest/2.jpeg)
 Secure login and registration for users and admins.
 
 ---
